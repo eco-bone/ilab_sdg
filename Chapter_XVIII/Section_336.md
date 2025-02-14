@@ -1,0 +1,6 @@
+CHAPTER XVIII: OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+
+Section 336: Forgery
+(1) Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery. (2) Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (3) Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+(4) Whoever commits forgery, intending that the document or electronic record forged shall harm the reputation of any party, or knowing that it is likely to be used for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+

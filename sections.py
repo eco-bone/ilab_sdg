@@ -1,11 +1,11 @@
 import os
 
 # Define the target folder
-folder_name = "Chapter_XVII"  # Change this to your desired folder name
+folder_name = "Chapter_XVIII"  # Change this to your desired folder name
 
 # Define the range of chapters
-start = 303
-end =334
+start = 335
+end =350
 
 # Create the folder if it doesn't exist
 os.makedirs(folder_name, exist_ok=True)
