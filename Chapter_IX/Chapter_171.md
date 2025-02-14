@@ -1,0 +1,5 @@
+CHAPTER IX: OF OFFENCES RELATING TO ELECTIONS
+
+Section 171: Undue influence at elections
+(1) Whoever voluntarily interferes or attempts to interfere with the free exercise of any electoral right commits the offence of undue influence at an election. (2) Without prejudice to the generality of the provisions of sub-section (1), whoever (a) threatens any candidate or voter, or any person in whom a candidate or voter is interested, with injury of any kind; or (b) induces or attempts to induce a candidate or voter to believe that he or any person in whom he is interested will become or will be rendered an object of Divine displeasure or of spiritual censure, shall be deemed to interfere with the free exercise of the electoral right of such candidate or voter, within the meaning of sub-section (1). (3) A declaration of public policy or a promise of public action or the mere exercise or a legal right without intent to interfere with an electoral right, shall not be deemed to be interference within the meaning of this section.
+

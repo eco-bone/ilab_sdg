@@ -1,0 +1,9 @@
+CHAPTER III: GENERAL EXCEPTIONS
+
+Subchapter: Of right of private defence
+
+Section 44: Right of private defence against deadly assault when there is risk of harm to innocent person
+If in the exercise of the right of private defence against an assault which reasonably causes the apprehension of death, the defender be so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.
+Illustration.
+A is attacked by a mob who attempt to murder him. He cannot effectually exercise his right of private defence without firing on the mob, and he cannot fire without risk of harming young children who are mingled with the mob. A commits no offence if by so firing he harms any of the children.
+
