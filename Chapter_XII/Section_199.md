@@ -1,0 +1,5 @@
+CHAPTER XII: OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+
+Section 199: Public servant disobeying direction under law
+Whoever, being a public servant, (a) knowingly disobeys any direction of the law which prohibits him from requiring the attendance at any place of any person for the purpose of investigation into an offence or any other matter; or (b) knowingly disobeys, to the prejudice of any person, any other direction of the law regulating the manner in which he shall conduct such investigation; or (c) fails to record any information given to him under sub-section (1) of section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 in relation to cognizable offence punishable under section 64, section 65, section 66, section 67, section 68, section 70, section 71, section 74, section 76, section 77, section 79, section 124, section 143 or section 144, shall be punished with rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine.
+
