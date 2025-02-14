@@ -1,0 +1,10 @@
+CHAPTER XIV: OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+
+Section 227: Giving false evidence
+Whoever, being legally bound by an oath or by an express provision of law to state the truth, or being bound by law to make a declaration upon any subject, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, is said to give false evidence.
+Explanation (1): A statement is within the meaning of this section, whether it is made verbally or otherwise.
+Explanation (2): A false statement as to the belief of the person attesting is within the meaning of this section, and a person may be guilty of giving false evidence by stating that he believes a thing which he does not believe, as well as by stating that he knows a thing which he does not know.
+Illustrations.
+(a) A, in support of a just claim which B has against Z for one thousand rupees, falsely swears on a trial that he heard Z admit the justice of Bs claim. A has given false evidence.
+(b) A, being bound by an oath to state the truth, states that he believes a certain signature to be the handwriting of Z, when he does not believe it to be the handwriting of Z. Here A states that which he knows to be false, and therefore gives false evidence. (c) A, knowing the general character of Zs handwriting, states that he believes a certain signature to be the handwriting of Z; A in good faith believing it to be so. Here As statement is merely as to his belief, and is true as to his belief, and therefore, although the signature may not be the handwriting of Z, A has not given false evidence. (d) A, being bound by an oath to state the truth, states that he knows that Z was at a particular place on a particular day, not knowing anything upon the subject. A gives false evidence whether Z was at that place on the day named or not. (e) A, an interpreter or translator, gives or certifies as a true interpretation or translation of a statement or document which he is bound by oath to interpret or translate truly, that which is not and which he does not believe to be a true interpretation or translation. A has given false evidence.
+
