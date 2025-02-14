@@ -1,0 +1,7 @@
+CHAPTER XVII: OF OFFENCES AGAINST PROPERTY
+
+Subchapter: Of robbery and dacoity
+
+Section 310: Dacoity
+(1) When five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting to commit a robbery, and persons present and aiding such commission or attempt, amount to five or more, every person so committing, attempting or aiding, is said to commit dacoity. (2) Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. (3) If any one of five or more persons, who are conjointly committing dacoity, commits murder in so committing dacoity, every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment for a term which shall not be less than ten years, and shall also be liable to fine. (4) Whoever makes any preparation for committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. (5) Whoever is one of five or more persons assembled for the purpose of committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine. (6) Whoever belongs to a gang of persons associated for the purpose of habitually committing dacoity, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+
