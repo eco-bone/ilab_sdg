@@ -1,0 +1,8 @@
+CHAPTER VI: OF OFFENCES AFFECTING THE HUMAN BODY
+
+Subchapter: Of kidnapping, abduction, slavery and forced labour
+
+Section 139: Kidnapping or maiming a child for purposes of 
+(1) Whoever kidnaps any child or, not being the lawful guardian of such child, obtains the custody of the child, in order that such child may be employed or used for the purposes of begging shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, and shall also be begging. liable to fine. (2) Whoever maims any child in order that such child may be employed or used for the purposes of begging shall be punishable with imprisonment which shall not be less than twenty years, but which may extend to life which shall mean imprisonment for the remainder of that persons natural life, and with fine. (3) Where any person, not being the lawful guardian of a child employs or uses such child for the purposes of begging, it shall be presumed, unless the contrary is proved, that he kidnapped or otherwise obtained the custody of such child in order that such child might be employed or used for the purposes of begging. (4) In this section begging means (i) soliciting or receiving alms in a public place, whether under the pretence of singing, dancing, fortune telling, performing tricks or selling articles or otherwise; (ii) entering on any private premises for the purpose of soliciting or receiving alms;
+(iii) exposing or exhibiting, with the object of obtaining or extorting alms, any sore, wound, injury, deformity or disease, whether of himself or of any other person or of an animal; (iv) using such child as an exhibit for the purpose of soliciting or receiving alms.
+
