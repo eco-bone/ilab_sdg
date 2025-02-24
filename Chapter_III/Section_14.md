@@ -1,18 +1,6 @@
-import os
+CHAPTER III: GENERAL EXCEPTIONS
 
-# Define the target folder
-folder_name = "Chapters"  # Change this to your desired folder name
-
-# Define the range of chapters
-start = 4
-end = 20
-
-# Create the folder if it doesn't exist
-os.makedirs(folder_name, exist_ok=True)
-
-# Create empty .md files inside the folder
-for i in range(start, end + 1):
-    file_path = os.path.join(folder_name, f"Chapter_{i}.md")
-    open(file_path, "w").close()  # Creates an empty file
-
-print(f"Empty Markdown files created successfully inside '{folder_name}'!")
+Section 14: Act done by a person bound, or by mistake of fact believing himself bound, by law
+Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it. (a) A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law. A has committed no offence.
+Illustrations.
+(b) A, an officer of a Court, being ordered by that Court to arrest Y, and, after due enquiry, believing Z to be Y, arrests Z. A has committed no offence.
